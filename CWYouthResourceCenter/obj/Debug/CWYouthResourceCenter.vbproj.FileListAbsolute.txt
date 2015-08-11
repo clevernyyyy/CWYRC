@@ -1,0 +1,16 @@
+C:\Users\atschaal\Documents\Visual Studio 2010\Projects\CWYouthResourceCenter\CWYouthResourceCenter\bin\CWYouthResourceCenter.dll
+C:\Users\atschaal\Documents\Visual Studio 2010\Projects\CWYouthResourceCenter\CWYouthResourceCenter\bin\CWYouthResourceCenter.pdb
+C:\Users\atschaal\Documents\Visual Studio 2010\Projects\CWYouthResourceCenter\CWYouthResourceCenter\bin\CWYouthResourceCenter.xml
+C:\Users\atschaal\Documents\Visual Studio 2010\Projects\CWYouthResourceCenter\CWYouthResourceCenter\obj\Debug\CWYouthResourceCenter.Resources.resources
+C:\Users\atschaal\Documents\Visual Studio 2010\Projects\CWYouthResourceCenter\CWYouthResourceCenter\obj\Debug\CWYouthResourceCenter.vbproj.GenerateResource.Cache
+C:\Users\atschaal\Documents\Visual Studio 2010\Projects\CWYouthResourceCenter\CWYouthResourceCenter\obj\Debug\CWYouthResourceCenter.dll
+C:\Users\atschaal\Documents\Visual Studio 2010\Projects\CWYouthResourceCenter\CWYouthResourceCenter\obj\Debug\CWYouthResourceCenter.xml
+C:\Users\atschaal\Documents\Visual Studio 2010\Projects\CWYouthResourceCenter\CWYouthResourceCenter\obj\Debug\CWYouthResourceCenter.pdb
+G:\NICO\Stuff to Move off of PC\Programming\CWYouthResourceCenter\CWYouthResourceCenter\bin\CWYouthResourceCenter.dll
+G:\NICO\Stuff to Move off of PC\Programming\CWYouthResourceCenter\CWYouthResourceCenter\bin\CWYouthResourceCenter.pdb
+G:\NICO\Stuff to Move off of PC\Programming\CWYouthResourceCenter\CWYouthResourceCenter\bin\CWYouthResourceCenter.xml
+G:\NICO\Stuff to Move off of PC\Programming\CWYouthResourceCenter\CWYouthResourceCenter\obj\Debug\CWYouthResourceCenter.Resources.resources
+G:\NICO\Stuff to Move off of PC\Programming\CWYouthResourceCenter\CWYouthResourceCenter\obj\Debug\CWYouthResourceCenter.vbproj.GenerateResource.Cache
+G:\NICO\Stuff to Move off of PC\Programming\CWYouthResourceCenter\CWYouthResourceCenter\obj\Debug\CWYouthResourceCenter.dll
+G:\NICO\Stuff to Move off of PC\Programming\CWYouthResourceCenter\CWYouthResourceCenter\obj\Debug\CWYouthResourceCenter.xml
+G:\NICO\Stuff to Move off of PC\Programming\CWYouthResourceCenter\CWYouthResourceCenter\obj\Debug\CWYouthResourceCenter.pdb
