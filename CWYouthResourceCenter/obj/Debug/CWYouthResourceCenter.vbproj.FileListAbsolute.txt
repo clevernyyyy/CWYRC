@@ -14,3 +14,12 @@ G:\NICO\Stuff to Move off of PC\Programming\CWYouthResourceCenter\CWYouthResourc
 G:\NICO\Stuff to Move off of PC\Programming\CWYouthResourceCenter\CWYouthResourceCenter\obj\Debug\CWYouthResourceCenter.dll
 G:\NICO\Stuff to Move off of PC\Programming\CWYouthResourceCenter\CWYouthResourceCenter\obj\Debug\CWYouthResourceCenter.xml
 G:\NICO\Stuff to Move off of PC\Programming\CWYouthResourceCenter\CWYouthResourceCenter\obj\Debug\CWYouthResourceCenter.pdb
+C:\Users\clevernyyyy_dell\Documents\GitHub\CWYRC\CWYouthResourceCenter\bin\CWYouthResourceCenter.dll.config
+C:\Users\clevernyyyy_dell\Documents\GitHub\CWYRC\CWYouthResourceCenter\bin\CWYouthResourceCenter.dll
+C:\Users\clevernyyyy_dell\Documents\GitHub\CWYRC\CWYouthResourceCenter\bin\CWYouthResourceCenter.pdb
+C:\Users\clevernyyyy_dell\Documents\GitHub\CWYRC\CWYouthResourceCenter\bin\CWYouthResourceCenter.xml
+C:\Users\clevernyyyy_dell\Documents\GitHub\CWYRC\CWYouthResourceCenter\obj\Debug\CWYouthResourceCenter.Resources.resources
+C:\Users\clevernyyyy_dell\Documents\GitHub\CWYRC\CWYouthResourceCenter\obj\Debug\CWYouthResourceCenter.vbproj.GenerateResource.Cache
+C:\Users\clevernyyyy_dell\Documents\GitHub\CWYRC\CWYouthResourceCenter\obj\Debug\CWYouthResourceCenter.dll
+C:\Users\clevernyyyy_dell\Documents\GitHub\CWYRC\CWYouthResourceCenter\obj\Debug\CWYouthResourceCenter.xml
+C:\Users\clevernyyyy_dell\Documents\GitHub\CWYRC\CWYouthResourceCenter\obj\Debug\CWYouthResourceCenter.pdb

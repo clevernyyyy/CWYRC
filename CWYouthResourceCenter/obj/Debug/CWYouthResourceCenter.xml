@@ -6,7 +6,28 @@ CWYouthResourceCenter
 </name>
 </assembly>
 <members>
-<member name="P:CWYouthResourceCenter.My.MyWebExtension.Application">
+<member name="P:CWYouthResourceCenter.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:CWYouthResourceCenter.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:CWYouthResourceCenter.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="F:CWYouthResourceCenter.ChangePassword.ChangeUserPassword">
+	<summary>
+ChangeUserPassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="P:CWYouthResourceCenter.My.MyWebExtension.Application">
 	<summary>
  Returns information about the current application.
  </summary>
@@ -39,25 +60,17 @@ CWYouthResourceCenter
  Module used to define the properties that are available in the My Namespace for Web projects.
  </summary>
 	<remarks></remarks>
-</member><member name="F:CWYouthResourceCenter.ChangePassword.ChangeUserPassword">
+</member><member name="F:CWYouthResourceCenter.Login.RegisterHyperLink">
 	<summary>
-ChangeUserPassword control.
+RegisterHyperLink control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:CWYouthResourceCenter.Register.RegisterUser">
+</member><member name="F:CWYouthResourceCenter.Login.LoginUser">
 	<summary>
-RegisterUser control.
-</summary>
-	<remarks>
-Auto-generated field.
-To modify move field declaration from designer file to code-behind file.
-</remarks>
-</member><member name="F:CWYouthResourceCenter.Register.RegisterUserWizardStep">
-	<summary>
-RegisterUserWizardStep control.
+LoginUser control.
 </summary>
 	<remarks>
 Auto-generated field.
@@ -95,35 +108,22 @@ MainContent control.
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:CWYouthResourceCenter.Login.RegisterHyperLink">
+</member><member name="F:CWYouthResourceCenter.Register.RegisterUser">
 	<summary>
-RegisterHyperLink control.
+RegisterUser control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="F:CWYouthResourceCenter.Login.LoginUser">
+</member><member name="F:CWYouthResourceCenter.Register.RegisterUserWizardStep">
 	<summary>
-LoginUser control.
+RegisterUserWizardStep control.
 </summary>
 	<remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
-</member><member name="P:CWYouthResourceCenter.My.Resources.Resources.ResourceManager">
-	<summary>
-  Returns the cached ResourceManager instance used by this class.
-</summary>
-</member><member name="P:CWYouthResourceCenter.My.Resources.Resources.Culture">
-	<summary>
-  Overrides the current thread's CurrentUICulture property for all
-  resource lookups using this strongly typed resource class.
-</summary>
-</member><member name="T:CWYouthResourceCenter.My.Resources.Resources">
-	<summary>
-  A strongly-typed resource class, for looking up localized strings, etc.
-</summary>
 </member>
 </members>
 </doc>
